@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+::selection{
+    background: #ffffff;
+}
+.heroSection{
+    /*padding-top: 30px;*/
+    padding-bottom: 154px;
+    width: 100%;
+    height: auto;
+    background-color: #ffffff;
+    box-sizing: border-box
+}
+.heroSection .container{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding-bottom: 100px;
+}
+.heroSection .container nav{
+    width: 100%;
+    height: auto;
+}
+.heroSection .container nav .menuBar{
+    float: right
+}
+.heroSection .container nav .menuBar ul{
+    list-style-type: none;
+    text-align: center
+}
+.heroSection .container nav .menuBar ul li{
+    display: inline-block;
+    text-align: center
+}
+.heroSection .container nav .menuBar ul li:last-child{
+    margin-right: 70px;
+}
+.heroSection .container nav .menuBar ul li a{
+    text-decoration: none;
+    color: #d24d26;
+    font-size: 16px;
+    padding: 13px 20px;
+    transition: 0.1s
+}
+.heroSection .container nav .menuBar ul li a:hover{
+    border-bottom: 2px solid #d24d26;
+    transition: 0.1s
+}
+.heroSection .container nav .logo{
+    margin-left: 40px;
+    float: left; 
+    padding-top: 10px;
+}
+.clear{
+    clear: both
+}
+.heroSection .container section .desc{
+    padding-top: 70px;
+    color: #f04f43;
+    width: 100%;
+    height: auto;
+    font-size: 39.46px;
+    text-align: center;
+}
+.heroSection .container section .desc p{
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.heroSection .container section .desc2{
+    color: #f04f43;
+    width: 100%;
+    height: auto;
+    font-size: 20.09px;
+    text-align: center;
+}
+.heroSection .container section .desc2 p{
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.awesome{
+    background: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+image{
+    float: right;
+    width: 50%;
+    text-align: center;
+    box-sizing: border-box;
+}
+.image img{
+    float: right;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.paragraph{
+    padding-top: 250px;
+    padding-left: 230px;
+    color: #f04f43;
+}
+.p1{
+    font-size: 22px;
+}
+.p2{
+    font-size: 12px;
+}
+.xpress{
+    background: #ffffff;
+    padding-bottom: 50px;
+}
+.paragraph2{
+    float: right;
+    width: 50%;
+    text-align: right;
+    box-sizing: border-box;
+    padding-right: 130px;
+    color: #f04f43;
+}
+.p3{
+    float: right;
+    padding-right: 100px;
+    font-size: 22px;
+}
+.p4{
+    float: right;
+    font-size: 12px;
+}
+.image2{
+    float: left;
+    width: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 150px;
+}
+.image2 img2{
+    padding-top: 60px;
+    margin-left: 75px;
+    padding-left: 5px;
+}
+.paragraph3{
+    text-align: center;
+    color: #f04f43;
+    font-size: 22px;
+    padding-right: 70px;
+}
+.image3{
+    text-align: center;
+    width: 100%;
+}
+.get{
+    padding-top: 10px;
+}
+.paragraph4{
+    text-align: center;
+    color: #f04f43;
+    font-size: 22px;
+    padding-right: 70px;
+}
+.icon{
+    text-align: center;
+    width: 100%;
+}
